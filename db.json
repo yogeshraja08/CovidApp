@@ -1,7 +1,7 @@
 {
-  "cases":1000,
-  "active":250,
-  "deaths":250,
-  "recovered":500,
-  "lastUpdate":"05/09/2024 05:09 PM"
+  "cases":19534,
+  "active":2655,
+  "deaths":546,
+  "recovered":56164,
+  "lastUpdate":"05/09/2024 06:02 PM"
 }
